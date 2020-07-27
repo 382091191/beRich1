@@ -1,0 +1,3 @@
+rootProject.name='大兴菜市场'
+include ':app'
+include ':minlib'
